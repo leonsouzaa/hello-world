@@ -1,3 +1,3 @@
 # hello-world
-Este repositório é para praticar e estudar GitHub.
+Este repositório é para praticar e estudar GitHub!
 
